@@ -1,0 +1,36 @@
+*{
+    margin: 0px 3px 0px 3px;
+}
+#mainheading{
+    color: black;
+    text-align: center;
+    font-size: 200%;
+    background-color:rgb(52, 152, 219)
+}
+#ourmenu{
+    font-size: 200%;
+    background-color:#27ae60
+    
+}
+.bg{
+    font-size: 100%;
+    background-color:#7ed6df
+}
+.famousbg{
+    font-size: 100%;
+    background-size: 90%;
+    background-color: aqua;
+}
+
+.dishesbg{
+    background-image: url(mutton\ paye.jpg);
+    background-size: 80%;
+    background-attachment: fixed;
+    background-color: #10ac84
+}
+.mapbg{
+    background-color: aquamarine;
+}
+.videobg{
+    background-color: blueviolet;
+}
